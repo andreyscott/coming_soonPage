@@ -40,7 +40,7 @@ class Timer extends Component {
 
     const timeLeft = {
       years: 0,
-      days: 0,
+      days: 10,
       hours: 0,
       min: 0,
       sec: 0
