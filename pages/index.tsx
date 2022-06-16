@@ -16,9 +16,9 @@ const IndexPage = () => (
     />
     <div className="relative font-pop z-10 py-6 space-y-16 lg:space-y-32 text-pblack">
     <div className="flex max-w-4xl justify-start ml-6 ">
-      <img src="/images/SOFTlife_Logo-06.png" alt="logo" className="h-48" />
+      <img src="/images/Abacus_1.jpg" alt="logo" className="h-48" />
         </div>
-      {/* import the SoftLife logo from the public folder and add it to the page */}
+      {/* import the Abacus logo from the public folder and add it to the page */}
       
       {/* <div className="flex max-w-4xl  justify-start ml-6 font-bold  ">
       <img src="/images/SOFTlife_Logo-06.png" alt="logo" className="h-48" />
@@ -27,7 +27,7 @@ const IndexPage = () => (
       <div className="text-center space-y-10">
         
         <h3 className="  text-2xl xl:text-5xl uppercase  tracking-wider">
-         The SoftLife is Coming soon
+        Abacus is Coming soon
         </h3>
         <h1 className="lg:text-5xl flex"><Timer /></h1>
         <p className="text-xl lg:text-4xl font-semibold   hover:cursor-pointer  tracking-wide mx-10 lg:max-w-xl lg:mx-auto hover:font-pop">
@@ -49,7 +49,7 @@ const IndexPage = () => (
     <div className=" relative xl:absolute   xl:bottom-5">
       <ul className="flex space-x-5 lg:space-x-8    ">
         <li className="flex ">
-          <Link href="https://www.instagram.com/thesoftlifehq/?utm_medium=copy_link">
+          <Link href="/">
             <a className="flex items-center justify-center w-12 h-12 lg:w-20 lg:h-20 rounded-full bg-gray-50 transition ease-in-out duration-500 hover:bg-pyellow hover:text-white hover:shadow-lg">
               <svg
                 className="w-8 h-8 lg:w-16  lg:h-16"
@@ -67,7 +67,7 @@ const IndexPage = () => (
           </Link>
         </li>
         <li>
-          <Link href="https://twitter.com/thesoftlifehq?s=21">
+          <Link href="/">
             <a className="flex items-center justify-center w-12 h-12 lg:w-20 lg:h-20 rounded-full bg-gray-50 transition ease-in-out duration-500 hover:bg-pyellow hover:text-white hover:shadow-lg">
               <svg
                 className="w-8 h-8 lg:w-16  lg:h-16"
@@ -94,7 +94,7 @@ const IndexPage = () => (
           </Link>
         </li>
         <li>
-          <Link href="https://web.facebook.com/thesoftlifehq/">
+          <Link href="/">
             <a className="flex items-center justify-center w-12 h-12 lg:w-20 lg:h-20 rounded-full bg-gray-50 transition ease-in-out duration-500 hover:bg-pyellow hover:text-white hover:shadow-lg">
               <svg
                className="w-8 h-8 lg:w-16  lg:h-16"
