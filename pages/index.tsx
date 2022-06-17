@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Layout from "../components/Layout";
 import Timer from "../components/timer";
+// import Image from "next/image";
 
 const IndexPage = () => (
   <Layout title="Abacus -  A Clean Coming Soon Page (Tailwind CSS, NextJs) created by andrey-profile.web.app">
